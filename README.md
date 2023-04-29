@@ -1,26 +1,61 @@
-<h1 align="center">Hi 👋, I'm Wellington</h1>
-<h3 align="center">Future Developer | Software Engineering Student</h3>
+<h1 align="center">Olá 👋, me chamo Wellington</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/wellington-ds-silva/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Dev-Wellington&style=for-the-badge"/>
+</p>
+<h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-wellington&label=Profile%20views&color=0e75b6&style=flat" alt="dev-wellington" /> </p>
-
-- 🔭 I’m currently working on ["Cidadão-Conectado"](https://github.com/Cidadao-Conectado/cidadao-conectado)
-
-- 🌱 I’m currently learning **| JavaScript | | Vue.js | Nuxt.js | TypeScript | Git|**
-
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **joycewellingtonaprigio2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wellington-ds-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wellington-ds-silva" height="30" width="40" /></a>
+<p align="center">
+Futuro Desenvolvedor | Estudante De Engenharia de Software
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## **Sobre mim:**
+* Wellington dos santos silva, 19 anos
+* Estudante de programação
+* Atualmente estudando | JavaScript | | Vue.js | Nuxt.js | TypeScript | Git |
+* Atualmente estou colocando meus estudos em prática em um projeto que estou contribuindo ["Cidadão-Conectado"](https://github.com/Cidadao-Conectado/cidadao-conectado)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-wellington&show_icons=true&locale=en&layout=compact" alt="dev-wellington" /></p>
+## **Habilidades:**
+<details>
+  <summary>Linguagens</summary>
+  
+ > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-wellington&show_icons=true&locale=en" alt="dev-wellington" /></p>
+<details>
+  <summary>Frameworks </summary>
+  
+> ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white
+)
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-wellington&" alt="dev-wellington" /></p>
+<details>
+  <summary>Versionamento</summary>
+  
+>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</details>
+
+## **🌠Contato:**
+*Clique na imagem para ser redirecionado*
+
+
+<a href="https://www.linkedin.com/in/wellington-ds-silva/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:joycewellingtonaprigio2@gmail.com">
+<img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+  
+<div>
+  <a href="https://github.com/Dev-Wellington">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-wellington&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="dev-wellington" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-wellington&layout=compact&langs_count=16&theme=dark" alt="dev-wellington" />
+</div>
