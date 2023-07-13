@@ -18,7 +18,7 @@ Futuro Desenvolvedor | Estudante De Engenharia de Software
 * Wellington dos santos silva, 19 anos
 * Estudante de programação
 * Atualmente estudando | JavaScript | | Vue.js | Nuxt.js | TypeScript | Git |
-* Atualmente estou colocando meus estudos em prática em um projeto que estou contribuindo ["Cidadão-Conectado"](https://github.com/Cidadao-Conectado/cidadao-conectado)
+* Atualmente estou colocando meus estudos em prática no seguinte projeto  ["Portfolio-One"](https://github.com/Dev-Wellington/portfolio-one)
 
 ## **💬 Habilidades:**
 <details>
