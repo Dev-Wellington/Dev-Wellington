@@ -53,6 +53,9 @@ Futuro Desenvolvedor | Estudante De Engenharia de Software
 <a href="mailto:joycewellingtonaprigio2@gmail.com">
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://wa.me/5521983907632">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Whastapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
   
 <div>
   <a href="https://github.com/Dev-Wellington">
