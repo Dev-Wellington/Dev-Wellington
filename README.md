@@ -17,15 +17,14 @@ Futuro Desenvolvedor | Estudante De Engenharia de Software
 ## **📘 Sobre mim:**
 * Wellington dos santos silva, 19 anos
 * Estudante de programação
-* Atualmente estudando | JavaScript | | Vue.js | Nuxt.js | TypeScript | Git |
-* Atualmente estou colocando meus estudos em prática no seguinte projeto  ["Portfolio-One"](https://github.com/Dev-Wellington/portfolio-one)
+* Atualmente estudando | JavaScript | Vue.js | TypeScript | Git |
+* Atualmente estou colocando meus estudos em prática no seguinte projeto  ["Pomodoro"](https://github.com/Dev-Wellington/)
 
 ## **💬 Habilidades:**
 <details>
   <summary>Linguagens</summary>
   
  > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 </details>
@@ -34,7 +33,6 @@ Futuro Desenvolvedor | Estudante De Engenharia de Software
   <summary>Frameworks </summary>
   
 > ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white
 )
 </details>
 
