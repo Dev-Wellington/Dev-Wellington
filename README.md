@@ -17,8 +17,8 @@ Futuro Desenvolvedor | Estudante De Engenharia de Software
 ## **📘 Sobre mim:**
 * Wellington dos santos silva, 20 anos
 * Estudante de programação
-* Atualmente estudando | JavaScript | Vue.js | TypeScript | Git |
-* Atualmente estou colocando meus estudos em prática no seguinte projeto  ["Pomodoro"](https://github.com/Dev-Wellington/)
+* Atualmente estudando Web 3 | Vue.js | TypeScript | Responsividade |
+* Atualmente estou colocando meus estudos em prática no seguinte projeto  ["Livro de Colagens"](https://github.com/Dev-Wellington/LivroDeColagens) 
 
 ## **💬 Habilidades:**
 <details>
