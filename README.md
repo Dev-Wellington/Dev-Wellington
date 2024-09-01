@@ -11,7 +11,7 @@
 
 
 <h2 align="center">
-Futuro Desenvolvedor | Estudante De Engenharia de Software
+Desenvolvedor | Graduando em Engenharia de Software
 </h2>
 
 ## **📘 Sobre mim:**
