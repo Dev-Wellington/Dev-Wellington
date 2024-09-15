@@ -17,7 +17,7 @@ Desenvolvedor | Graduando em Engenharia de Software
 ## **📘 Sobre mim:**
 * Wellington dos santos silva, 20 anos
 * Estudante de programação
-* Atualmente estudando Web 3 | Vue.js | TypeScript | Responsividade |
+* Atualmente estudando Web 3 | Quasar | TypeScript | Responsividade |
 * Atualmente estou colocando meus estudos em prática no seguinte projeto  ["Livro de Colagens"](https://github.com/Dev-Wellington/LivroDeColagens) 
 
 ## **💬 Habilidades:**
