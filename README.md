@@ -25,23 +25,31 @@ Desenvolvedor | Graduando em Engenharia de Software
   <summary>Linguagens</summary>
   
  > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+   ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
 </details>
 
 <details>
-  <summary>Frameworks </summary>
+  <summary>Frameworks</summary>
   
 > ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-)
+  ![Quasar](https://img.shields.io/badge/Quasar-050A14?logo=quasar&logoColor=fff&style=for-the-badge)
+</details>
+
+<details>
+  <summary>Pré-processadores CSS</summary>
+  
+> ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=fff&style=for-the-badge)
 </details>
 
 <details>
   <summary>Versionamento</summary>
   
->![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
+
 
 ## **🌠 Contato:**
 *Clique na imagem para ser redirecionado*
@@ -56,7 +64,7 @@ Desenvolvedor | Graduando em Engenharia de Software
 <a href="https://wa.me/5521983907632">
     <img alt="whatsapp" src="https://img.shields.io/badge/Whastapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
-  
+<br></br>
 <div>
   <a href="https://github.com/Dev-Wellington">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-wellington&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="dev-wellington" />
