@@ -16,9 +16,9 @@ Desenvolvedor | Graduando em Engenharia de Software
 
 ## **📘 Sobre mim:**
 * Wellington dos santos silva, 20 anos
-* Estudante de programação
-* Atualmente estudando Web 3 | Quasar | TypeScript | Responsividade |
-* Atualmente estou colocando meus estudos em prática no seguinte projeto  ["Livro de Colagens"](https://github.com/Dev-Wellington/LivroDeColagens) 
+* Desenvolvedor FrontEnd
+* Atualmente estudando Web 3 | TypeScript | Responsividade |
+* Atualmente estou colocando meus estudos em prática no seguinte projeto  ["Portfolio"](https://github.com/Dev-Wellington/bento-portfolio-nuxt) 
 
 ## **💬 Habilidades:**
 <details>
@@ -33,7 +33,7 @@ Desenvolvedor | Graduando em Engenharia de Software
   <summary>Frameworks</summary>
   
 > ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![Quasar](https://img.shields.io/badge/Quasar-050A14?logo=quasar&logoColor=fff&style=for-the-badge)
+ 
 </details>
 
 <details>
