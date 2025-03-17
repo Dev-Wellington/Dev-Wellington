@@ -33,15 +33,17 @@ Desenvolvedor | Graduando em Engenharia de Software
   <summary>Frameworks</summary>
   
 > ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
- 
+  ![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 </details>
 
-<details>
+<!--  <details>
   <summary>Pré-processadores CSS</summary>
   
 > ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=fff&style=for-the-badge)
-</details>
+</details> -->
 
 <details>
   <summary>Versionamento</summary>
@@ -50,6 +52,14 @@ Desenvolvedor | Graduando em Engenharia de Software
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
+## **💖 Apoie meu trabalho**
+Se você gosta do meu trabalho e quer apoiar, considere fazer uma doação! Isso me ajuda a continuar estudando e desenvolvendo projetos incríveis.  
+
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=VCMVPJC2AGKSS" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Doar via PayPal"/>
+  </a>
+</p>
 
 ## **🌠 Contato:**
 *Clique na imagem para ser redirecionado*
