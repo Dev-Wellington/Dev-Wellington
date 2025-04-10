@@ -15,11 +15,11 @@ Desenvolvedor | Graduando em Engenharia de Software
 </h2>
 
 ## **📘 Sobre mim:**
-* Wellington dos santos silva, 20 anos
+* Wellington dos santos silva, 21 anos
 * Desenvolvedor FrontEnd
 * Atualmente estudando Web 3 | TypeScript | Responsividade |
 * Atualmente estou colocando meus estudos em prática no seguinte projeto  ["Portfolio"](https://github.com/Dev-Wellington/bento-portfolio-nuxt) 
-
+* Minha última contribuição pública foi no projeto [PolkadotEducation/app](https://github.com/PolkadotEducation/app)
 ## **💬 Habilidades:**
 <details>
   <summary>Linguagens</summary>
