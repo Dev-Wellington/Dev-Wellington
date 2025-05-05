@@ -51,16 +51,15 @@ Desenvolvedor | Graduando em Engenharia de Software
 > ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
-
+<!-- 
 ## **💖 Apoie meu trabalho**
 Se você gosta do meu trabalho e quer apoiar, considere fazer uma doação! Isso me ajuda a continuar estudando e desenvolvendo projetos incríveis.  
-
 <p align="center">
   <a href="https://www.paypal.com/donate/?hosted_button_id=VCMVPJC2AGKSS" target="_blank">
     <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Doar via PayPal"/>
   </a>
 </p>
-
+-->
 ## **🌠 Contato:**
 *Clique na imagem para ser redirecionado*
 
